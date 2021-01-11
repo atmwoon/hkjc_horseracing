@@ -11,6 +11,6 @@ The full report is available through the following `onedrive` link: https://1drv
 
 The coding/analysis is split across three sequential Jupyter Notebooks in this repository, which should be viewed in the following order:
 
-- 1. Data Acquisition - Predicting Horse Racing Results
-- 2. EDA - Predicting Horse Racing Results
-- 3. Modelling - Predicting Horse Racing Results
+1. Data Acquisition - Predicting Horse Racing Results
+2. EDA - Predicting Horse Racing Results
+3. Modelling - Predicting Horse Racing Results
